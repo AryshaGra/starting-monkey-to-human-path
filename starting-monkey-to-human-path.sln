@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Kyrgys", "Kyrgys", "{2E436D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wdad", "wdad", "{E246C1BB-2E18-4167-8974-3ACD66A338B0}"
 	ProjectSection(SolutionItems) = preProject
-		Program.cs = Program.cs
+		Application.cs = Application.cs
 	EndProjectSection
 EndProject
 Global

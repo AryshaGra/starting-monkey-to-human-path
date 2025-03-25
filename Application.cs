@@ -10,6 +10,7 @@ namespace starting_monkey_to_human_path
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("I'm Arya Kyrgys, and I’m not a monkey");
         }
     }
 }
